@@ -30,7 +30,7 @@ function Header() {
       {/* Logo */}
       <div className="container mx-auto flex items-center justify-between px-4 py-4">
         {" "}
-        <p className="hidden text-heading-s sm:block">Ali Fadel</p>
+        <p className="hidden text-heading-s sm:block">{"<Ali />"}</p>
         {/* Hamburger Button */}
         <button
           className="block h-10 w-10 px-1 py-4 sm:hidden"
