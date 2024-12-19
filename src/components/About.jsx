@@ -20,7 +20,7 @@ function About() {
         </p>
         <div className="flex w-full items-center justify-center space-x-4 lg:justify-start">
           <a
-            href="/puplic/Ali-Fadel-Resume.pdf"
+            href="/Ali-Fadel-Resume.pdf"
             download="Ali-Fadel-Resume.pdf"
             className="flex items-center rounded-3xl bg-soft-blue px-6 py-2 text-white transition-colors duration-300 hover:bg-soft-blue-hover dark:bg-main dark:text-black dark:hover:bg-main-hover"
           >
