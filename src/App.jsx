@@ -3,12 +3,12 @@ import Contact from "./components/contact";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import ProjectsContainer from "./components/ProjectsContainer";
-import Section from "./components/section";
+import Section from "./components/Section";
 import Skills from "./components/Skills";
 
 function App() {
   return (
-    <div className="bg-gray dark:text-gray flex w-full flex-col items-center justify-center overflow-x-hidden font-Inter text-black transition-colors duration-300 dark:bg-black">
+    <div className="flex w-full flex-col items-center justify-center overflow-x-hidden bg-gray font-Inter text-black transition-colors duration-300 dark:bg-black dark:text-gray">
       <Header />
       <Section>
         <About />
